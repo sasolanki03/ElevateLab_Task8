@@ -1,0 +1,57 @@
+---------------------------------------------Task-8:Working and understanding VPN-----------------------------------------------
+
+Objective:- Understand the role of VPNs in protecting privacy and enabling secure communication.
+
+VPN Used: Windscribe
+
+**Steps for VPN Setup:
+
+1.Download and Install Windscribe App
+
+- If not yet installed, download it from: https://windscribe.com/download
+
+2. Install it on Windows
+
+3. Log in to the Windscribe App
+
+4. Use the same username and password as your Windscribe account 
+
+5. Open the App
+
+- You’ll see a small window with a power button and a list of countries/locations (these are your VPN servers).
+
+6.Connect to a Free Server
+
+- Click on a free server (e.g., US East, UK, Germany, etc. – no "PRO" tag).
+- The Power button will turn blue = You are connected!
+
+7. Verify IP Change
+
+-Before VPN: IP showed India.
+-After VPN: IP changed to Netherlands.
+ Verified using whatismyipaddress.com
+
+**Traffic Test:
+Opened websites (e.g., Wikipedia, DuckDuckGo) — All traffic was successfully encrypted and tunneled through the VPN.
+
+**Disconnection and Comparison:
+Disconnected the VPN. Compared browsing speed and IP — browsing became slightly faster without VPN, and IP reverted to Indian location.
+
+**VPN Research Summary:
+
+-Encryption: Windscribd uses AES-256 encryption, ensuring data privacy and security.
+-Privacy Features: IP Masking, No-Logs Policy, Kill Switch, DNS Leak Protection, d/Tracker Blocking
+
+**Benefits of Using a VPN:
+
+-Masks IP address and location.
+-Protects data over public Wi-Fi.
+-Bypasses geo-restrictions and censorship.
+-Enhances online privacy and anonymity.
+
+**Limitations:
+
+-Free plans have speed or server limits.
+-Some websites may block VPN traffic.
+-VPN doesn’t protect from phishing or malware.
+
